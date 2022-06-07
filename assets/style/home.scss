@@ -1,0 +1,38 @@
+#products {
+    margin-bottom: 30px;
+
+    .card-product {
+        border-radius: 8px;
+        margin-right: 25px;
+        margin-bottom: 30px;
+
+        .card-img-top {
+            border-radius: 8px;
+        }
+
+        .card-img-1 {
+            padding: 28px 55px 23px 60px;
+        }
+
+        .card-img-2 {
+            padding: 36px 51px 28px 63px;
+        }
+
+        .card-img-3 {
+            padding: 36px 61px 34px 68px;
+        }
+
+        .card-img-4 {
+            padding: 33px 62px 33px 60px;
+        }
+
+        .card-body {
+            padding-top: 18px;
+
+            .card-title {
+                line-height: 23px;
+            }
+        }
+
+    }
+}

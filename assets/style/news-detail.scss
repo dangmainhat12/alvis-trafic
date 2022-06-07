@@ -1,0 +1,154 @@
+#header {
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+
+    img.logo-header {
+        padding-top: 20px;
+        padding-bottom: 19px;
+    }
+
+    .main-nav {
+        line-height: 23px;
+        li{
+            a{
+                padding: 30px 24px;
+            }
+        }
+    }
+
+    .header-menu {
+        margin-right: 190px;
+    }
+
+}
+
+#background_banner {
+    background-image: url(../images/bg-img.svg);
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    height: 568px;
+
+    .heading-main-box {
+        .title-heading {
+            line-height: 48px;
+            margin-top: 224px;
+            margin-bottom: 280px;
+        }
+
+    }
+}
+
+
+.news-detail {
+    font-family: 'Sarabun';
+    font-style: normal;
+    .des{
+        font-weight: 400;
+        font-size: 16px;
+        letter-spacing: 0.01em;
+        color: #5B5B5B;
+        @media (min-width: 992px) {
+            font-size: 14px;
+        }
+        @media (min-width: 1366px) {
+            font-size: 16px;
+        }
+        @media (min-width: 1920px) {
+            font-size: 18px;
+        }
+    }
+    .maint-content{
+        padding-top: 32px;
+        font-weight: 500;
+        @media (min-width: 992px) {
+            padding-top: 22px;
+        }
+        @media (min-width: 1366px) {
+            padding-top: 28px;
+        }
+        @media (min-width: 1920px) {
+            padding-top: 32px;
+        }
+        .title{
+            font-size: 32px;
+            font-weight: 700;
+            line-height: 130%;
+            align-items: center;
+            letter-spacing: 0.01em;
+            color: #333333;
+            width: 90%;
+            @media (min-width: 992px) {
+                font-size: 36px;
+            }
+            @media (min-width: 1366px) {
+                font-size: 42px;
+            }
+            @media (min-width: 1920px) {
+                font-size: 48px;
+            }
+        }
+        .des{
+            font-size: 18px;
+            font-weight: 400;
+            line-height: 180%;
+            width: 90%;
+            margin-top: 14px;
+            @media (min-width: 992px) {
+                font-size: 14px;
+                margin-top: 16px;
+            }
+            @media (min-width: 1366px) {
+                font-size: 16px;
+                margin-top: 18px;
+            }
+            @media (min-width: 1920px) {
+                font-size: 18px;
+                margin-top: 20px;
+            }
+        }
+    }
+    .content{
+        padding: 60px;
+    }
+
+}
+
+#footer {
+    .ft-main-block {
+        .footer-menu {
+            line-height: 23px;
+
+            li.ft_menu_item {
+                line-height: 23px;
+
+                a {
+                    padding: 22px;
+                }
+            }
+        }
+    }
+
+    .company-name {
+        line-height: 32px;
+    }
+
+    .company-info {
+        line-height: 22px;
+    }
+
+    .list-social {
+        padding: 10px;
+        //*
+        padding-right: 120px;
+
+        li.list-icon-item {
+            img.icon-social {
+                box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.15);
+            }
+        }
+    }
+
+    .copyright-footer {
+        line-height: 25px;
+    }
+}

@@ -1,0 +1,117 @@
+#about-us .about {
+  margin-top: 60px;
+}
+
+#about-us .about .about-descript {
+  padding-right: 10px;
+}
+
+@media (max-width: 992px) {
+  #about-us .about .about-descript {
+    padding-right: 0px;
+  }
+}
+
+#about-us .about .about-title {
+  line-height: 68px;
+}
+
+#about-us .about p {
+  line-height: 28px;
+  font-size: 18px;
+  padding-right: 8px;
+}
+
+@media (max-width: 740px) {
+  #about-us .about p {
+    font-size: 15px;
+  }
+}
+
+#about-us img {
+  border-radius: 12px;
+}
+
+@media (max-width: 740px) {
+  #about-us img {
+    width: 100%;
+  }
+}
+
+#about-us .vision-a-mission {
+  padding-top: 40px;
+}
+
+#about-us .vision-a-mission h1 {
+  padding-top: 46px;
+  line-height: 56px;
+  padding-bottom: 10px;
+}
+
+@media (max-width: 740px) {
+  #about-us .vision-a-mission h1 {
+    padding-top: 26px;
+  }
+}
+
+#about-us .vision-a-mission p {
+  line-height: 30px;
+  opacity: 0.7;
+}
+
+@media (max-width: 740px) {
+  #about-us .vision-a-mission p {
+    font-size: 15px;
+  }
+}
+
+#about-us .vision-a-mission img {
+  margin-bottom: 34px;
+  width: 475px;
+  height: 344px;
+}
+
+@media (max-width: 740px) {
+  #about-us .vision-a-mission img {
+    width: 100%;
+  }
+}
+
+#about-us .core-priciple {
+  margin-top: 66px;
+  margin-bottom: 78px;
+}
+
+#about-us .core-priciple h1 {
+  line-height: 68px;
+}
+
+#about-us .core-priciple p.desscript-priciple {
+  padding: 1px 200px 25px;
+}
+
+@media (max-width: 992px) {
+  #about-us .core-priciple p.desscript-priciple {
+    padding: 1px 20px 25px;
+  }
+}
+
+#about-us .core-priciple .card {
+  width: 473px;
+  height: 332px;
+}
+
+#about-us .core-priciple .card .card-body h4 {
+  line-height: 36px;
+}
+
+#about-us .core-priciple .card .card-body p {
+  line-height: 28px;
+}
+
+@media (max-width: 740px) {
+  #about-us .core-priciple .card .card-body p {
+    font-size: 15px;
+  }
+}
+/*# sourceMappingURL=about.css.map */

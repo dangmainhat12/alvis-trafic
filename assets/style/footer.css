@@ -1,0 +1,34 @@
+#footer .ft-main-block .footer-menu {
+  line-height: 23px;
+}
+
+#footer .ft-main-block .footer-menu li.ft_menu_item {
+  line-height: 23px;
+}
+
+#footer .ft-main-block .footer-menu li.ft_menu_item a {
+  padding: 22px;
+}
+
+#footer .company-name {
+  line-height: 32px;
+}
+
+#footer .company-info {
+  line-height: 22px;
+}
+
+#footer .list-social {
+  padding: 10px;
+  padding-right: 120px;
+}
+
+#footer .list-social li.list-icon-item img.icon-social {
+  -webkit-box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.15);
+          box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.15);
+}
+
+#footer .copyright-footer {
+  line-height: 25px;
+}
+/*# sourceMappingURL=footer.css.map */

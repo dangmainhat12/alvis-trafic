@@ -1,0 +1,65 @@
+#contact-us {
+  margin-top: 87px;
+  margin-bottom: 80px;
+}
+
+#contact-us h1 {
+  line-height: 68px;
+}
+
+#contact-us h4 {
+  margin-top: 6px;
+  margin-bottom: 24px;
+  line-height: 32px;
+}
+
+#contact-us .company-info {
+  line-height: 28px;
+  margin-bottom: 10px;
+  padding-right: 140px;
+}
+
+#contact-us .btn-submit {
+  margin-top: 33px;
+  padding: 16px 5px;
+  line-height: 23px;
+  width: 100%;
+}
+
+#contact-us .form-group {
+  width: 100%;
+  height: 68px;
+}
+
+#contact-us .form-group::-webkit-input-placeholder {
+  color: #5B5B5B;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  padding: 20px;
+}
+
+#contact-us .form-group:-ms-input-placeholder {
+  color: #5B5B5B;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  padding: 20px;
+}
+
+#contact-us .form-group::-ms-input-placeholder {
+  color: #5B5B5B;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  padding: 20px;
+}
+
+#contact-us .form-group::placeholder {
+  color: #5B5B5B;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  padding: 20px;
+}
+/*# sourceMappingURL=contact.css.map */

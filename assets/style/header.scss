@@ -1,0 +1,50 @@
+#header {
+    background-image: url(../images/bg-img.svg);
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+
+    .heading-main-box {
+        .title-heading {
+            line-height: 48px;
+            margin-right: 200px;
+            margin-top: 175px;
+            /*================ Mobile & Tablet ================*/
+            @media (max-width: 1023px){
+                margin-right: 10px;
+                margin-top: 0;
+            }
+
+        }
+
+        .descript-heading {
+            line-height: 25px;
+            margin-bottom: 24px;
+            @media (max-width: 1023px){
+                margin-bottom: 10px;
+            }
+        }
+
+        .btn-learn-more {
+            padding: 9px 14px;
+            border-radius: 8px;
+        }
+    }
+
+    .heading-main-img {
+        @media (max-width: 1366px){
+            display: none;
+        }
+        .img-static {
+            padding-top: 94px;
+            padding-bottom: 94px;
+        }
+
+        .product-main {
+            position: absolute;
+            left: 8%;
+            top: 10%;
+            height: auto;
+        }
+    }
+}

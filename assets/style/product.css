@@ -1,0 +1,122 @@
+#header {
+  background-image: url(../images/bg-img.svg);
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100%;
+  height: 568px;
+}
+
+#header .heading-main-box .title-heading {
+  line-height: 48px;
+  margin-right: 200px;
+  margin-top: 175px;
+  /*================ Mobile & Tablet ================*/
+}
+
+@media (max-width: 1023px) {
+  #header .heading-main-box .title-heading {
+    margin: 10px auto;
+    margin-top: 0;
+  }
+}
+
+#header .heading-main-box .descript-heading {
+  line-height: 25px;
+}
+
+#header .heading-main-box .btn-learn-more {
+  padding: 9px 14px;
+  border-radius: 8px;
+}
+
+#header .heading-main-img .img-static {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
+
+#header .heading-main-img .product-main {
+  position: absolute;
+  left: 8%;
+  top: 10%;
+  height: auto;
+}
+
+#home-product .descript-product .descript {
+  line-height: 29px;
+  max-width: 772px;
+}
+
+@media (max-width: 1023px) {
+  #home-product .descript-product .descript {
+    margin: 0 auto;
+    padding: 0 5px;
+  }
+}
+
+#home-product .descript-product h3.descript-product-title {
+  line-height: 42px;
+  padding-right: 20px;
+  margin-top: 32px;
+  margin-bottom: 0px;
+}
+
+@media (max-width: 1023px) {
+  #home-product .descript-product .categories-product {
+    padding: 10px 0px;
+  }
+}
+
+#home-product .descript-product .categories-product .categories-product-title {
+  line-height: 31px;
+}
+
+#home-product .descript-product .categories-product .product-category-items .card {
+  width: 573px;
+  height: 149px;
+  border-radius: 8px;
+  height: 100%;
+}
+
+@media (max-width: 1023px) {
+  #home-product .descript-product .categories-product .product-category-items .card {
+    width: 100%;
+  }
+}
+
+#home-product .descript-product .categories-product .product-category-items img {
+  border-radius: 8px;
+  height: 149px;
+  width: 274px;
+}
+
+#home-product .descript-product .list-new-product {
+  margin-bottom: 60px;
+}
+
+#home-product .descript-product .list-new-product .list-new-product-title {
+  line-height: 42px;
+  margin-top: 27px;
+}
+
+#home-product .descript-product .list-new-product .card {
+  border-radius: 18px;
+}
+
+#home-product .descript-product .list-new-product .card .card-body {
+  padding: 13px;
+}
+
+#home-product .descript-product .list-new-product .card .card-body .date-time {
+  line-height: 32px;
+  padding-left: 3px;
+}
+
+#home-product .descript-product .list-new-product .card .card-body .card-title {
+  letter-spacing: 0.01em;
+  line-height: 25px;
+}
+
+#home-product .descript-product .list-new-product .card .card-body .card-text {
+  line-height: 26px;
+}
+/*# sourceMappingURL=product.css.map */

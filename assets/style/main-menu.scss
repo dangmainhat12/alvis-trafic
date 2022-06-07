@@ -1,0 +1,21 @@
+#menu-heading{
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    .logo-brand{
+        padding-top: 20px;
+        padding-bottom: 19px;
+    }
+    #main-nav{
+    margin-right: 190px;}
+    .header-menu{
+        .nav-item{
+            &:hover{
+                transition: 0.25s ease-in-out;
+            }
+            .nav-link{
+                padding: 24px;
+            }
+        }
+    }
+}
+
+

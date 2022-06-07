@@ -1,0 +1,57 @@
+#detail-product .bread-crumb-ctm {
+  margin-top: 14px;
+  margin-bottom: 28px;
+}
+
+#detail-product .bread-crumb-ctm a.each-tab-bc {
+  line-height: 28px;
+}
+
+#detail-product .detail-product-items .detail-product-items-name {
+  line-height: 49px;
+}
+
+#detail-product .detail-product-items .detail-product-items-subname {
+  line-height: 25px;
+}
+
+#detail-product .detail-product-items ul li.detail-product-items-primary h4 {
+  line-height: 31px;
+}
+
+#detail-product .detail-product-items ul li.detail-product-items-primary ul li {
+  line-height: 28px;
+}
+
+#detail-product .detail-product-items ul li.detail-product-items-primary p {
+  line-height: 28px;
+}
+
+#detail-product .models-in-product {
+  margin-bottom: 60px;
+}
+
+#detail-product .models-in-product h2 {
+  line-height: 42px;
+  margin-bottom: 24px;
+}
+
+#detail-product .models-in-product .card {
+  width: 374px;
+  height: 382px;
+  border-radius: 8px;
+}
+
+#detail-product .models-in-product .card .card-img-top {
+  min-height: 263px;
+  padding: 40px;
+}
+
+#detail-product .models-in-product .card .card-body .card-title {
+  line-height: 26px;
+}
+
+#detail-product .models-in-product .card .card-body .card-text {
+  line-height: 21px;
+}
+/*# sourceMappingURL=detail-product.css.map */

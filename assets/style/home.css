@@ -1,0 +1,38 @@
+#products {
+  margin-bottom: 30px;
+}
+
+#products .card-product {
+  border-radius: 8px;
+  margin-right: 25px;
+  margin-bottom: 30px;
+}
+
+#products .card-product .card-img-top {
+  border-radius: 8px;
+}
+
+#products .card-product .card-img-1 {
+  padding: 28px 55px 23px 60px;
+}
+
+#products .card-product .card-img-2 {
+  padding: 36px 51px 28px 63px;
+}
+
+#products .card-product .card-img-3 {
+  padding: 36px 61px 34px 68px;
+}
+
+#products .card-product .card-img-4 {
+  padding: 33px 62px 33px 60px;
+}
+
+#products .card-product .card-body {
+  padding-top: 18px;
+}
+
+#products .card-product .card-body .card-title {
+  line-height: 23px;
+}
+/*# sourceMappingURL=home.css.map */

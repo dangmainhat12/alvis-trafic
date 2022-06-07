@@ -1,0 +1,23 @@
+#menu-heading {
+  -webkit-box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+          box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+#menu-heading .logo-brand {
+  padding-top: 20px;
+  padding-bottom: 19px;
+}
+
+#menu-heading #main-nav {
+  margin-right: 190px;
+}
+
+#menu-heading .header-menu .nav-item:hover {
+  -webkit-transition: 0.25s ease-in-out;
+  transition: 0.25s ease-in-out;
+}
+
+#menu-heading .header-menu .nav-item .nav-link {
+  padding: 24px;
+}
+/*# sourceMappingURL=main-menu.css.map */
