@@ -43,11 +43,44 @@
               <p class="descript font-size-18 fw-400 mx-auto">Choose from our cutting-edge products for a better society</p>
 
           </div>
-          <div class="categories-product">
-            <h2 class="categories-product-title py-3 fw-600" style="margin-left: 28%;">Fix Camera</h2>
+          <!-- <div class="categories-product">
+            <h4 class="categories-product-title mb-3 fw-500">Product Categories</h4>
+            <div class="row flex-column">
+              <a href="product-child.php" class="dark-grey-color">
+                <div class="product-category-items d-flex">
+                  <div class="card mb-3">
+                    <div class="d-flex align-items-center">
+                      <div class="bg-light-grey">
+                        <img src="./assets/images/detail-product1.svg" alt="ALVIS Traffic Camera" class="card-img img-left">
+                      </div>
+                      <div class="card-body">
+                        <p class="card-title product-category-title fw-500 font-size-18 pl-1">AI Camera</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
+              <a href="AI-box.php" class="dark-grey-color">
+                <div class="product-category-items d-flex">
+                  <div class="card mb-3">
+                    <div class="d-flex align-items-center">
+                      <div class="bg-light-grey">
+                        <img src="./assets/images/Smart-Retail-Box.svg" alt="ALVIS Traffic Camera" class="card-img img-left">
+                      </div>
+                      <div class="card-body">
+                        <p class="card-title product-category-title fw-500 font-size-18 pl-1">AI Box</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div> -->
+          <div class="categories-product mb-5">
+            <h2 class="categories-product-title mb-3 fw-600" style="margin-left: 28%;">Product Categories</h2>
             <div class="row mb-5 pb-4">
               <div class="col-md-12">
-                <a href="ALVIS-traffic-camera.php" class="dark-grey-color">
+                <a href="product-child.php" class="dark-grey-color">
                   <div class="product-category-items d-flex">
                     <div class="card mb-3 mx-auto">
                       <div class="d-flex align-items-center">
@@ -55,7 +88,7 @@
                           <img src="./assets/images/detail-product1.svg" alt="ALVIS Traffic Camera" class="card-img img-left">
                         </div>
                         <div class="card-body">
-                          <p class="card-title product-category-title fw-500 font-size-18 pl-1">ALVIS Traffic Camera</p>
+                          <p class="card-title product-category-title fw-500 font-size-18 pl-1">AI Camera</p>
                         </div>
                       </div>
                     </div>
@@ -63,108 +96,21 @@
                 </a>
               </div>
               <div class="col-md-12">
-                <a href="alvis-enforce-cam.php" class="dark-grey-color">
+                <a href="AI-box.php" class="dark-grey-color">
                   <div class="product-category-items d-flex">
                     <div class="card mb-3 mx-auto">
                       <div class="d-flex align-items-center">
                         <div class="bg-light-grey">
-                          <img src="./assets/images/ALVIS-enforce-camera.svg" alt="ALVIS Enforcement Camera" class="card-img img-left">
+                          <img src="./assets/images/Smart-Retail-Box.svg" alt="ALVIS Enforcement Camera" class="card-img img-left">
                         </div>
                         <div class="card-body">
-                          <p class="card-title product-category-title fw-500 font-size-18 pl-1">ALVIS Enforcement Camera</p>
+                          <p class="card-title product-category-title fw-500 font-size-18 pl-1">AI Box</p>
                         </div>
                       </div>
                     </div>
                   </div>
                 </a>
-              </div>
-              <div class="col-md-12">
-                <a href="alvis-speed-cam.php" class="dark-grey-color">
-                  <div class="product-category-items d-flex">
-                    <div class="card mb-3 mx-auto">
-                      <div class="d-flex align-items-center">
-                        <div class="bg-light-grey">
-                          <img src="./assets/images/fix-camera-3.svg" alt="ALVIS Speed Camera" class="card-img img-left">
-                        </div>
-                        <div class="card-body">
-                          <p class="card-title product-category-title fw-500 font-size-18 pl-1">ALVIS Speed Camera</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
-            <h2 class="categories-product-title py-3 fw-600" style="margin-left: 28%;">FTZ Camera</h2>
-            <div class="row mb-5 pb-4">
-              <div class="col-md-12">
-                <a href="ALVIS-PTZ-AI-starlight-cam.php" class="dark-grey-color">
-                  <div class="product-category-items d-flex">
-                    <div class="card mb-3 mx-auto">
-                      <div class="d-flex align-items-center">
-                        <div class="bg-light-grey">
-                          <img src="./assets/images/ftz-camera-1.svg" alt="ALVIS Traffic Camera" class="card-img img-left">
-                        </div>
-                        <div class="card-body">
-                          <p class="card-title product-category-title fw-500 font-size-18 pl-1">ALVIS PTZ AI Starlight Camera</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-12">
-                <a href="alvis-PTZ-AI-HORIZON-cam.php" class="dark-grey-color">
-                  <div class="product-category-items d-flex">
-                    <div class="card mb-3 mx-auto">
-                      <div class="d-flex align-items-center">
-                        <div class="bg-light-grey">
-                          <img src="./assets/images/ALVIS-PTZ-AI-HORIZON-CAMERA.svg" alt="ALVIS Enforcement Camera" class="card-img img-left">
-                        </div>
-                        <div class="card-body">
-                          <p class="card-title product-category-title fw-500 font-size-18 pl-1">ALVIS PTZ AI Horizon Camera</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
-            <h2 class="categories-product-title py-3 fw-600" style="margin-left: 28%;">AI Box</h2>
-            <div class="row mb-5 pb-4">
-              <div class="col-md-12">
-                <a href="Smart-Retail-Box.php" class="dark-grey-color">
-                  <div class="product-category-items d-flex">
-                    <div class="card mb-3 mx-auto">
-                      <div class="d-flex align-items-center">
-                        <div class="bg-light-grey">
-                          <img src="./assets/images/Smart-retail-box-1.svg" alt="ALVIS Traffic Camera" class="card-img img-left">
-                        </div>
-                        <div class="card-body">
-                          <p class="card-title product-category-title fw-500 font-size-18 pl-1">Smart retail box</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <div class="col-md-12">
-                <a href="Smart-Building-Box.php" class="dark-grey-color">
-                  <div class="product-category-items d-flex">
-                    <div class="card mb-3 mx-auto">
-                      <div class="d-flex align-items-center">
-                        <div class="bg-light-grey">
-                          <img src="./assets/images/Smart-building-Box-1.svg" alt="ALVIS Enforcement Camera" class="card-img img-left">
-                        </div>
-                        <div class="card-body">
-                          <p class="card-title product-category-title fw-500 font-size-18 pl-1">Smart building box</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </a>
-              </div>
-             
+              </div>             
             </div>
           </div>
 

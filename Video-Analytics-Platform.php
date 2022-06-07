@@ -39,13 +39,13 @@
             <div class="container">
                 <div class="row">
                     <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-                    <div class="col col-xl-6 col-lg-6 col-md-6 col-6">
+                    <div class="col col-xl-6 col-lg-6 col-md-12 col-12">
                         <a href="#">
                             <img src="./assets/images/Eravision.svg" alt="">
                         </a>
 
                     </div>
-                    <div class="col col-xl-6 col-lg-6 col-md-6 col-6">
+                    <div class="col col-xl-6 col-lg-6 col-md-12 col-12">
                         <div class="dark-grey-color">
                             <h5>Application</h5>
                             <ul class="font-size-18 list-unstyled">

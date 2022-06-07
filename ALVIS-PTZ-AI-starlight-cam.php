@@ -25,8 +25,8 @@
     <main>
         <section class="detail-product" id="detail-product">
             <div class="container">
-                <div class="bread-crumb-ctm py-1">
-                    <a href="#" class="each-tab-bc mt-3 mb-4">
+            <div class="bread-crumb-ctm py-1">
+                    <a href="product-child.php" class="each-tab-bc mt-3 mb-4">
                         <span>AI Camera</span>
                     </a>
                 </div>
@@ -50,7 +50,7 @@
                         <div class="card border-grey-color">
                             <img src="./assets/images/model-1-of-ALVIS-PTZ-AI-STARLIGHT-CAMERA.svg" class="card-img-top bg-light-grey" alt="">
                             <div class="card-body text-center py-3 px-4">
-                                <h5 class="card-title fw-700 mb-2">ALVT - 35 - 1150</h5>
+                                <h5 class="card-title fw-700 mb-2">ALVT-35-1150</h5>
                                 <p class="card-text">ALVIS Speed Camera dial 3MP & 5MP P-IRIS Lens 11 - 50mm</p>
                             </div>
 
@@ -60,7 +60,7 @@
                         <div class="card border-grey-color">
                             <img src="./assets/images/model-2-of-ALVIS-PTZ-AI-STARLIGHT-CAMERA.svg" class="card-img-top bg-light-grey" alt="...">
                             <div class="card-body text-center py-3 px-4">
-                                <h5 class="card-title fw-700 mb-2">ALVT - 35 - 1150</h5>
+                                <h5 class="card-title fw-700 mb-2">ALVT-35-1150</h5>
                                 <p class="card-text">ALVIS Speed Camera dial 3MP & 5MP P-IRIS Lens 11 - 50mm</p>
                             </div>
 
@@ -70,7 +70,7 @@
                         <div class="card border-grey-color">
                             <img src="./assets/images/model-3-of-ALVIS-PTZ-AI-STARLIGHT-CAMERA.svg" class="card-img-top bg-light-grey" alt="">
                             <div class="card-body text-center py-3 px-4">
-                                <h5 class="card-title fw-700 mb-2">ALVT - 35 - 1150</h5>
+                                <h5 class="card-title fw-700 mb-2">ALVT-35-1150</h5>
                                 <p class="card-text">ALVIS Speed Camera dial 3MP & 5MP P-IRIS Lens 11 - 50mm</p>
                             </div>
 

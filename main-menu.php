@@ -46,7 +46,7 @@
                     <a class="nav-link d-block dark-grey-color" id="product" href="product.php">Products
                     </a>
                   </li>
-                  <li class="nav-item">
+                  <li class="nav-item d-none">
                     <a class="nav-link d-block dark-grey-color" id="news" href="#">News</a>
                   </li>
                   <li class="nav-item">
@@ -70,15 +70,15 @@
                   <td>
                     <ul class="list-unstyled">Fix Camera
                       <li class="pl-4">
-                        <ul>
+                        <ul class="">
                           <li>
-                            <a href="ALVIS-traffic-camera.php">ALVIS Traffic camera</a>
+                            <a href="ALVIS-traffic-camera.php" class="dark-grey-color">ALVIS Traffic camera</a>
                           </li>
                           <li>
-                            <a href="alvis-speed-cam.php">ALVIS Speed camera</a>
+                            <a href="alvis-speed-cam.php" class="dark-grey-color">ALVIS Speed camera</a>
                           </li>
                           <li>
-                            <a href="alvis-enforce-cam.php">ALVIS Enforcement camera</a>
+                            <a href="alvis-enforce-cam.php" class="dark-grey-color">ALVIS Enforcement camera</a>
                           </li>
                         </ul>
                       </li>
@@ -87,10 +87,10 @@
                       <li class="pl-4">
                         <ul>
                           <li>
-                            <a href="ALVIS-PTZ-AI-starlight-cam.php">ALVIS PTZ AI Starlight camera</a>
+                            <a href="ALVIS-PTZ-AI-starlight-cam.php" class="dark-grey-color">ALVIS PTZ AI Starlight camera</a>
                           </li>
                           <li>
-                            <a href="alvis-PTZ-AI-HORIZON-cam.php">ALVIS PTZ AI Hoziron camera</a>
+                            <a href="alvis-PTZ-AI-HORIZON-cam.php" class="dark-grey-color">ALVIS PTZ AI Hoziron camera</a>
                           </li>
                         </ul>
                       </li>
@@ -98,11 +98,11 @@
                   </td>
                   <td>
                     <ul>
-                      <li class="list-unstyled fw-500"><a href="Smart-Retail-Box.php">Smart Retail Box</a></li>
-                      <li class="list-unstyled fw-500"><a href="Smart-Building-Box.php">Smart Home Box</a></li>
+                      <li class="list-unstyled fw-500"><a href="Smart-Retail-Box.php" class="dark-grey-color">Smart Retail Box</a></li>
+                      <li class="list-unstyled fw-500"><a href="Smart-Building-Box.php" class="dark-grey-color">Smart Home Box</a></li>
                     </ul>
                   </td>
-                  <td></td>
+                  <td><a href="Video-Analytics-Platform.php" class="fw-500 dark-grey-color">Eravision</a></td>
                 </tr>
               </tbody>
             </table>
@@ -119,23 +119,23 @@
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
   <script>
-    // document.getElementById("product").addEventListener("mouseover", mouseOver);
-    // document.getElementById("product").addEventListener("mouseout", mouseOut);
-    // function mouseOver() {
-    //   $('#hoverProduct').show();
-    // }
-    // function mouseOut() {
-    //   $('#hoverProduct').hide();
-    // }
+    document.getElementById("product").addEventListener("mouseover", mouseOver);
+    document.getElementById("product").addEventListener("mouseout", mouseOut);
+    function mouseOver() {
+      $('#hoverProduct').show();
+    }
+    function mouseOut() {
+      $('#hoverProduct').hide();
+    }
 
-    // document.getElementById("hoverProduct").addEventListener("mouseover", mouseOver2);
-    // document.getElementById("hoverProduct").addEventListener("mouseout", mouseOut2);
-    // function mouseOver2() {
-    //   $('#hoverProduct').show();
-    // }
-    // function mouseOut2() {
-    //   $('#hoverProduct').hide();
-    // }
+    document.getElementById("hoverProduct").addEventListener("mouseover", mouseOver2);
+    document.getElementById("hoverProduct").addEventListener("mouseout", mouseOut2);
+    function mouseOver2() {
+      $('#hoverProduct').show();
+    }
+    function mouseOut2() {
+      $('#hoverProduct').hide();
+    }
 
   </script>
 </body>

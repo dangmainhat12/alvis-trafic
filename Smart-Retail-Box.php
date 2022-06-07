@@ -24,8 +24,8 @@
     <main>
         <section class="detail-product" id="detail-product">
             <div class="container">
-                <div class="bread-crumb-ctm py-1">
-                    <a href="#" class="each-tab-bc mt-3 mb-4">
+            <div class="bread-crumb-ctm py-1">
+                    <a href="product-child.php" class="each-tab-bc mt-3 mb-4">
                         <span>AI Camera</span>
                     </a>
                 </div>
@@ -66,7 +66,7 @@
                             <div class="card border-grey-color">
                                 <img src="./assets/images/model-1-of-Smart-Retail-Box.svg" class="card-img-top bg-light-grey" alt="">
                                 <div class="card-body text-center py-3 px-4">
-                                    <h5 class="card-title fw-700 mb-2">SRB - 8CH</h5>
+                                    <h5 class="card-title fw-700 mb-2">SRB-8CH</h5>
                                     <p class="card-text">8 Channel video Analytics box for Smart Retail</p>
                                 </div>
 
@@ -76,7 +76,7 @@
                             <div class="card border-grey-color">
                                 <img src="./assets/images/model-2-of-Smart-Retail-Box.svg" class="card-img-top bg-light-grey" alt="...">
                                 <div class="card-body text-center py-3 px-4">
-                                    <h5 class="card-title fw-700 mb-2">SRB - 8CH - FR</h5>
+                                    <h5 class="card-title fw-700 mb-2">SRB-8CH-FR</h5>
                                     <p class="card-text">8 Channel video analytics box for smart retail with build - in face recognition</p>
                                 </div>
 
@@ -86,7 +86,7 @@
                             <div class="card border-grey-color">
                                 <img src="./assets/images/model-3-of-Smart-Retail-Box.svg" class="card-img-top bg-light-grey" alt="">
                                 <div class="card-body text-center py-3 px-4">
-                                    <h5 class="card-title fw-700 mb-2">SRB - 16CH</h5>
+                                    <h5 class="card-title fw-700 mb-2">SRB-16CH</h5>
                                     <p class="card-text">16 Channel video analytics box for smart retail </p>
                                 </div>
 

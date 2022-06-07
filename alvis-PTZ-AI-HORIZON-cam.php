@@ -25,8 +25,8 @@
     <main>
         <section class="detail-product" id="detail-product">
             <div class="container">
-                <div class="bread-crumb-ctm py-1">
-                    <a href="#" class="each-tab-bc mt-3 mb-4">
+            <div class="bread-crumb-ctm py-1">
+                    <a href="product-child.php" class="each-tab-bc mt-3 mb-4">
                         <span>AI Camera</span>
                     </a>
                 </div>
@@ -79,7 +79,7 @@
                         <div class="card border-grey-color">
                             <img src="./assets/images/model-0-of-ALVIS-PTZ-AI-HORIZON.svg" class="card-img-top bg-light-grey" alt="">
                             <div class="card-body text-center py-3 px-4">
-                                <h5 class="card-title fw-700 mb-2">ALVP - Hon - 2M36</h5>
+                                <h5 class="card-title fw-700 mb-2">ALVP-Hon-2M36</h5>
                                 <p class="card-text">ALVIS PTZ 2MP 36x AI Horizon camera</p>
                             </div>
 
@@ -89,7 +89,7 @@
                         <div class="card border-grey-color">
                             <img src="./assets/images/model-1-of-ALVIS-PTZ-AI-HORIZON.svg" class="card-img-top bg-light-grey" alt="...">
                             <div class="card-body text-center py-3 px-4">
-                                <h5 class="card-title fw-700 mb-2">ALVP - Hon - 4M25</h5>
+                                <h5 class="card-title fw-700 mb-2">ALVP-Hon-4M25</h5>
                                 <p class="card-text">ALVIS PTZ 4MP 25x AI Horizon camera</p>
                             </div>
 
@@ -99,7 +99,7 @@
                         <div class="card border-grey-color">
                             <img src="./assets/images/model-2-of-ALVIS-PTZ-AI-HORIZON.svg" class="card-img-top bg-light-grey" alt="">
                             <div class="card-body text-center py-3 px-4">
-                                <h5 class="card-title fw-700 mb-2">ALVP - Hon - 8M20</h5>
+                                <h5 class="card-title fw-700 mb-2">ALVP-Hon-8M20</h5>
                                 <p class="card-text">ALVIS PTZ 8MP 20x AI Horizon camera</p>
                             </div>
 
